@@ -11,10 +11,11 @@
 
 1. Clone the repo:
 
-    git clone https://github.com/yourusername/project.git
-    cd project
+    git clone https://github.com/Darshan-147/VRV-Assignment.git
 
-2. Install required libraries and dependencies
+2. Install required libraries and dependencies:
     
     npm install
     npm install express dotenv bcrypt jsonwebtoken
+
+3. Go to the postman console or any other API testing tool you're using and test the routes.
